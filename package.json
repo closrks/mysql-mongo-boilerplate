@@ -1,0 +1,13 @@
+{
+  "name": "mysql_mongo_boilerplate",
+  "description": "A boiler plate for running nodejs ETL process from a mysql to mongo db",
+  "author": "Carlos Avila",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "commander": "~1.1.1",
+    "mysql": "~2.0.0-alpha7",
+    "squel": "~1.0.7",
+    "mongodb": "~1.2.14"
+  }
+}
