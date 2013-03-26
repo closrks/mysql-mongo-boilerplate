@@ -14,7 +14,7 @@ if (program) {
 
 	console.log('\nStart Program\n')
 
-	if (program.studyId) {
+	if (program.option) {
 
 		var mysqldb = new MySQLDB(MySQLConfig)
 			, mongodb = new MongoDB(MongoConfig);
